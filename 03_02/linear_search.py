@@ -1,5 +1,8 @@
 def linear_search(data, target):
-    pass
+    for idx, val in enumerate(data):
+        if val == target:
+            return idx  # Early exit if item is found.
+    return -1
 
 
 data = [4, 5, 2, 7, 1, 8]

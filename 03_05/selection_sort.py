@@ -10,8 +10,8 @@ def selection_sort(xs):
         xs[i], xs[min_index] = xs[min_index], xs[i]
 
 
-xs = [3, 2, 1, 5, 4]
-# xs = [-4, 2, 5, 8, -7, 3, 6, -1, 7]
+# xs = [3, 2, 1, 5, 4]
+xs = [-4, 2, 5, 8, -7, 3, 6, -1, 7]
 print(xs)
 selection_sort(xs)
 print(xs)

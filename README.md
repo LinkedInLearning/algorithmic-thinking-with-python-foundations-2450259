@@ -1,8 +1,10 @@
 # Algorithmic Thinking with Python: Foundations
-This is the repository for the LinkedIn Learning course `Algorithmic Thinking with Python: Foundations`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course Algorithmic Thinking with Python: Foundations. The full course is available from [LinkedIn Learning][lil-course-url].
 
+![Algorithmic Thinking with Python: Foundations][lil-thumbnail-url] 
 
-_See the readme file in the main branch for updated instructions and information._
+The word “algorithm,” at one time the sole province of mathematics and computer science, has entered the modern vernacular because, for better or worse, algorithms have never been more important or more impactful in daily life. If you’re a developer, you need to be familiar with a wide range of algorithmic thinking in order to be able to solve new problems as they present themselves. If you’re already familiar with Python, becoming more versed in algorithmic thinking is a great way to increase your value as a developer. In this course, Robin Andrews explains how Python, because of its clarity and expressiveness, is the ideal tool for exploring algorithmic thinking. He shows you tools to help you understand the flow of algorithms, explains the brute force approach to solving algorithms, details the concepts of time and space complexity with regard to algorithm analysis, the decrease and conquer strategy, and much more.
+
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
 
@@ -28,8 +30,21 @@ To resolve this issue:
 3. [Course-specific instructions]
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+Robin Andrews 
+                            
 
+
+                            
+
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/robin-andrews).
+
+[lil-course-url]: https://www.linkedin.com/learning/algorithmic-thinking-with-python-foundations
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2450259/2450259-1650644254745-16x9.jpg
+
+## Installing
+1. To use these exercise files, you must have the following installed:
+	- [list of requirements for course]
+2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
+3. [Course-specific instructions]

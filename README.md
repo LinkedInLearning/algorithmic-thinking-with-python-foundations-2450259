@@ -42,9 +42,3 @@ Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learn
 
 [lil-course-url]: https://www.linkedin.com/learning/algorithmic-thinking-with-python-foundations
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2450259/2450259-1650644254745-16x9.jpg
-
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]

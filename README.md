@@ -1,4 +1,4 @@
-# Algorithmic Thinking with Python: Foundations
+# Foundations of Algorithmic Thinking with Python
 
 This is the repository for the LinkedIn Learning course `Foundations of Algorithmic Thinking with Python`. The full course is available from [LinkedIn Learning][lil-course-url].
 

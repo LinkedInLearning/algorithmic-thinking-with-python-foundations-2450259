@@ -10,7 +10,7 @@ The word “algorithm,” at one time the sole province of mathematics and compu
 
 ## GitHub CodeSpaces
 
-Most of this course can be completed in a browser using GitHub CodeSpaces. There is a video near the start of the course explaining how to to do this.
+Most of this course can be completed in a browser using GitHub Codespaces. There is a video near the start of the course explaining how to to do this.
 
 ## Installing Locally
 
